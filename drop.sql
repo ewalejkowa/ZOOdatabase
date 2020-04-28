@@ -1,0 +1,12 @@
+DROP table Prac_Zwierz;
+DROP table Faktyczny_Stan;
+DROP table Karmienia;
+DROP table Planowane_Posi³ki;
+DROP table Pozycje_Diet;
+DROP table Sk³adniki;
+DROP table Diety;
+DROP table Godziny;
+DROP table Zwierzêta;
+DROP table Wybiegi;
+DROP table Gatunki;
+DROP table Pracownicy;
